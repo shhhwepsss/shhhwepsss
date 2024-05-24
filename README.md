@@ -16,7 +16,7 @@
 ---
 ## <center>My stats 👋</center>
 ![Shhhwepsss's GitHub stats](https://github-readme-stats.vercel.app/api?username=shhhwepsss&theme=dark&show_icons=true)
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); justify-content: space-between; gap: 15px">
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); justify-content: space-between; gap: 15px; align-items:center;" >
 <img height="170" src="https://github-readme-stats.vercel.app/api/wakatime?layout=compact&show_icons=true&theme=dark&username=shhhwepsss" alt="Shhhwepsss's Wakatime Stats (refresh page if not loaded) " />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shhhwepsss&layout=compact&langs_count=10&theme=dark" alt="Shhhwepsss's langs (refresh page if not loaded)" />
 
