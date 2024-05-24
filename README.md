@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Shhhwepsss's GitHub stats](https://github-readme-stats.vercel.app/api?username=shhhwepsss&theme=dark&show_icons=true)
+![Shhhwepsss's GitHub stats](https://github-readme-stats.vercel.app/api?username=shhhwepsss&theme=shadow_blue&show_icons=true)
 
 <!--
 **shhhwepsss/shhhwepsss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
