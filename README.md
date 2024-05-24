@@ -16,13 +16,12 @@
 ---
 ## <center>My stats 👋</center>
 ![Shhhwepsss's GitHub stats](https://github-readme-stats.vercel.app/api?username=shhhwepsss&theme=dark&show_icons=true)
-
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); justify-content: space-between; gap: 15px">
 <img height="170" src="https://github-readme-stats.vercel.app/api/wakatime?layout=compact&show_icons=true&theme=dark&username=shhhwepsss" alt="Shhhwepsss's Wakatime Stats (refresh page if not loaded) " />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shhhwepsss&layout=compact&langs_count=10&theme=dark" alt="Shhhwepsss's langs (refresh page if not loaded)" />
 
 <img height="220" src="https://github-readme-stats.vercel.app/api?username=shhhwepsss&count_private=true&include_all_commits=false&show_icons=true&theme=dark" alt="SanariSan Stats (refresh page if not loaded)" />
-<img height="220" src="https://leetcode.card.workers.dev/shhhwepsss?theme=dark&font=baloo&extension=activity" alt="SanariSan LeetCode Stats (refresh page if not loaded)" />
-
+</div>
 ## Some info about me
 
 My real name is Vildan. I`ve been started my programming learning шт August 2021. Since this time, after I have learned js, html, css and when I"ve made 5 landing pages as pet projects
