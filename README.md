@@ -60,8 +60,4 @@
     </tr>
   </table>
 
-## Some info about me
 
-My real name is Vildan. I`ve been started my programming learning шт August 2021. Since this time, after I have learned js, html, css and when I"ve made 5 landing pages as pet projects
-I started to make projects on freelance. It was simple HTML pages, SPA. after that I got a job at krak.ai as frontend developer and work there to this day.
-Sometimes on my free time I make my project by social media(backend(nest), frontend(React), WS)
