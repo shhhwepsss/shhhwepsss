@@ -2,7 +2,7 @@
 # <center>Hi and welcome to my profile 👋</center>
 
 
-# I`m full-stack developer with a focus on frontend side of applications
+# I`m full-stack developer
 
 
 
