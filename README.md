@@ -45,7 +45,7 @@
     <tr>
       <td><code>Nginx</code></td>
       <td><code>Express</code></td>
-      <td><code>Ubuntu (main os)</code></td>
+      <td><code>Linux(Ubuntu, nix, arch)</code></td>
     </tr>
     <tr>
       <td><code>PostgreSQL</code></td>
