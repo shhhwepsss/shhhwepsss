@@ -7,10 +7,9 @@
 
 
 
-- 🔭 I’m currently working on a project under the domain [krak.ai](https://krak.ai)
-- 🌱 I’m currently learning: backend, nest js, linux, linux security, English
+- 🔭 I’m currently working on a startup project
+- 🌱 I’m currently learning: java
 - 📫 How to reach me: [Telegram](https://t.me/Shhhwepsss)
-- 🔥 Interesting fact about me: I like cars, I own one and like to repair it myself. My goal besides programming is make turbo powered, comfortable, fast car
 
 ## <center>My stats 👋</center>
 
